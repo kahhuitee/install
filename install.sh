@@ -17,7 +17,7 @@ sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin 
 
 
 # VS code
-wget -O /tmp/vscode.deb https://code.visualstudio.com/sha/download?build=stable&os=linux-deb-x64
+wget -O /tmp/vscode.deb https://vscode.download.prss.microsoft.com/dbazure/download/stable/fabdb6a30b49f79a7aba0f2ad9df9b399473380f/code_1.96.2-1734607745_amd64.deb
 sudo dpkg -i /tmp/vscode.deb
 
 # libmongocrypt
